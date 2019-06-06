@@ -1,46 +1,46 @@
 [
   {
-    "tags": "web",
+    "tags": "Web Design",
     "name": "Use Case Name A"
   },
   {
-    "tags": "web",
+    "tags": "Web Design",
     "name": "Use Case Name B"
   },
   {
-    "tags": "web",
+    "tags": "Web Design",
     "name": "Use Case Name C"
   },
   {
-    "tags": "app",
+    "tags": "App Design",
     "name": "Use Case Name D"
   },
   {
-    "tags": "app",
+    "tags": "App Design",
     "name": "Use Case Name E"
   },
   {
-    "tags": "app",
+    "tags": "App Design",
     "name": "Use Case Name F"
   },
   {
-    "tags": "web, communication",
+    "tags": "Web Design, Communication",
     "name": "Use Case Name G"
   },
   {
-    "tags": "web, communication",
+    "tags": "web Design, Communication",
     "name": "Use Case Name H"
   },
   {
-    "tags": "web, communication",
+    "tags": "Web Design, Communication",
     "name": "Use Case Name I"
   },
   {
-    "tags": "",
+    "tags": "Marketing Design",
     "name": "Use Case Name J"
   },
   {
-    "tags": "",
+    "tags": "Marketing Design",
     "name": "Use Case Name K"
   }
 ]
