@@ -1,38 +1,38 @@
 [
   {
-    "tags": "",
+    "tags": "web",
     "name": "Use Case Name A"
   },
   {
-    "tags": "",
+    "tags": "web",
     "name": "Use Case Name B"
   },
   {
-    "tags": "",
+    "tags": "web",
     "name": "Use Case Name C"
   },
   {
-    "tags": "",
+    "tags": "app",
     "name": "Use Case Name D"
   },
   {
-    "tags": "",
+    "tags": "app",
     "name": "Use Case Name E"
   },
   {
-    "tags": "",
+    "tags": "app",
     "name": "Use Case Name F"
   },
   {
-    "tags": "",
+    "tags": "web, communication",
     "name": "Use Case Name G"
   },
   {
-    "tags": "",
+    "tags": "web, communication",
     "name": "Use Case Name H"
   },
   {
-    "tags": "",
+    "tags": "web, communication",
     "name": "Use Case Name I"
   },
   {
