@@ -1,15 +1,16 @@
 [
   {
     "tags": "Web Design",
-    "name": "Use Case Name A"
+    "name": "Create Global Styles",
+    "markup":"<h1>Create Global Styles</h1><p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>"
   },
   {
     "tags": "Web Design",
-    "name": "Use Case Name B"
+    "name": "Design Hand-off"
   },
   {
     "tags": "Web Design",
-    "name": "Use Case Name C"
+    "name": "Create Responsive Designs"
   },
   {
     "tags": "App Design",
