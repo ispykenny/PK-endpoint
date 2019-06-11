@@ -4,24 +4,30 @@
     "name": "Create Global Styles",
     "markup":"<h1>Create Global Styles</h1><p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
+    "videoUrl": "",
     "hasBlog": false,
-    "hasSampleFile": true
+    "hasSampleFile": true,
+    "sampleFileUrl": ""
   },
   {
     "tags": "Web Design",
     "name": "Design Hand-off",
     "markup":"<h1>Create Global Styles</h1><p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
+    "videoUrl": "",
     "hasBlog": false,
-    "hasSampleFile": true
+    "hasSampleFile": true,
+    "sampleFileUrl": ""
   },
   {
     "tags": "Web Design",
     "name": "Create Responsive Designs",
     "markup":"<h1>Create Global Styles</h1><p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
+    "videoUrl": "",
     "hasBlog": false,
-    "hasSampleFile": true
+    "hasSampleFile": true,
+    "sampleFileUrl": ""
   },
   {
     "tags": "App Design",
