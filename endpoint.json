@@ -12,13 +12,13 @@
   },
   {
     "tags": "Web Design",
-    "name": "Design Hand-off",
+    "name": "Can I extract the design of a web page into XD to play with?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
     "videoUrl": "",
     "hasBlog": false,
     "hasSampleFile": true,
-    "sampleFileUrl": "",
+    "sampleFileUrl": "https://xd.adobelanding.com/extractdesign/",
     "showResourcePanel": true
   },
   {
