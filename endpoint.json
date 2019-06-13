@@ -22,13 +22,13 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design",
-    "name": "Create Responsive Designs",
+    "tags": "App Design",
+    "name": "How do I view my designs on an actual device?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
+    "hasVideo": true,
+    "videoUrl": "https://www.youtube.com/watch?v=rtJDBXYRBc0",
     "hasBlog": false,
-    "hasSampleFile": true,
+    "hasSampleFile": false,
     "sampleFileUrl": "",
     "showResourcePanel": true
   },
@@ -66,8 +66,8 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design, Communication",
-    "name": "Use Case Name G",
+    "tags": "XD basics",
+    "name": "If you had to know 2 keyboard shortcuts...",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
     "videoUrl": "",
@@ -77,7 +77,7 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design, Communication",
+    "tags": "Web Design, App Design",
     "name": "Use Case Name H",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
@@ -88,7 +88,7 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design, Communication",
+    "tags": "Web Design, App Design",
     "name": "Use Case Name I",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
