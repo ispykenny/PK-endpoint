@@ -87,7 +87,6 @@
     "sampleFileUrl": "",
     "showResourcePanel": true
   },
-  
   {
     "tags": "XD basics",
     "name": "If you had to know 2 keyboard shortcuts...",
@@ -100,20 +99,9 @@
     "showResourcePanel": true
   },
   {
-    "tags": "App Design, Web Design",
-    "name": "Use Case Name H",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
-  },
-  {
-    "tags": "App Design, Web Design",
-    "name": "Use Case Name I",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
+    "tags": "XD basics",
+    "name": "Importing existing designs from Sketch, Photoshop or Illustrator",
+    "markup":"<p>2 shortcuts to get you statrted.</p>",
     "hasVideo": false,
     "videoUrl": "",
     "hasBlog": false,
