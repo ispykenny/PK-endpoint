@@ -1,7 +1,7 @@
 [
   {
     "tags": "App Design, Web Design",
-    "name": "How do I design for various screen sizes?",
+    "name": "Will XD help me  adapt my design for various screen sizes?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
     "hasVideo": false,
     "videoUrl": "",
@@ -87,39 +87,7 @@
     "sampleFileUrl": "",
     "showResourcePanel": true
   },
-  {
-    "tags": "App Design", 
-    "name": "Use Case Name D",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
-  },
-  {
-    "tags": "App Design",
-    "name": "Use Case Name E",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
-  },
-  {
-    "tags": "App Design",
-    "name": "Use Case Name F",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
-  },
+  
   {
     "tags": "XD basics",
     "name": "If you had to know 2 keyboard shortcuts...",
@@ -155,7 +123,7 @@
   },
   {
     "tags": "Marketing Design",
-    "name": "Use Case Name J",
+    "name": "Social media sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
     "videoUrl": "",
@@ -166,7 +134,7 @@
   },
   {
     "tags": "Marketing Design",
-    "name": "Use Case Name K",
+    "name": "Banner sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
     "videoUrl": "",
