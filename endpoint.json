@@ -1,6 +1,6 @@
 [
   {
-    "tags": "Web Design, App Design",
+    "tags": "App Design, Web Design",
     "name": "How do I design for various screen sizes?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
     "hasVideo": false,
@@ -8,7 +8,18 @@
     "hasBlog": false,
     "hasSampleFile": true,
     "sampleFileUrl": "https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"",
+        "headline":"Video here"
+      }]
   },
   {
     "tags": "Web Design",
@@ -68,7 +79,7 @@
   {
     "tags": "XD basics",
     "name": "If you had to know 2 keyboard shortcuts...",
-    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
+    "markup":"<p>2 shortcuts to get you statrted.</p>",
     "hasVideo": false,
     "videoUrl": "",
     "hasBlog": false,
@@ -77,7 +88,7 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design, App Design",
+    "tags": "App Design, Web Design",
     "name": "Use Case Name H",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
@@ -88,7 +99,7 @@
     "showResourcePanel": true
   },
   {
-    "tags": "Web Design, App Design",
+    "tags": "App Design, Web Design",
     "name": "Use Case Name I",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
