@@ -3,11 +3,6 @@
     "tags": "App Design, Web Design",
     "name": "Will XD help me  adapt my design for various screen sizes?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
     "showResourcePanel": true,
     "resources": [
       {
@@ -17,19 +12,15 @@
       },
       {
         "type":"file",
-        "url":"",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
         "headline":"Video here"
-      }]
+      }
+    ]
   },
   {
     "tags": "App Design, Web Design",
     "name": "Does XD support creation of micro-interactions and animations?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
     "showResourcePanel": true,
     "resources": [
       {
@@ -39,19 +30,15 @@
       },
       {
         "type":"file",
-        "url":"",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
         "headline":"Video here"
-      }]
+      }
+    ]
   },
   {
     "tags": "App Design, Web Design",
     "name": "Can XD help in handing off my design to developers?",
     "markup":"<p>Using a feature called design specs, XD helps take the chore out of sharing your design with your development partners. They can extract what they need and its easy to go back and forth.</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
     "showResourcePanel": true,
     "resources": [
       {
@@ -61,118 +48,189 @@
       },
       {
         "type":"file",
-        "url":"",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
         "headline":"Video here"
-      }]
+      }
+    ]
   },
   {
     "tags": "Web Design",
     "name": "Can I extract the design of a web page into XD to play with?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "https://xd.adobelanding.com/extractdesign/",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "App Design",
     "name": "How do I view my designs on an actual device?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": true,
-    "videoUrl": "https://www.youtube.com/watch?v=rtJDBXYRBc0",
-    "hasBlog": false,
-    "hasSampleFile": false,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "XD basics",
     "name": "If you had to know 2 keyboard shortcuts...",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "XD basics",
     "name": "Importing existing designs from Photoshop",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
-    "hasVideo": true,
-    "videoUrl": "https://letsxd.com/videos/import-photoshop-to-xd",
-    "hasBlog": false,
-    "hasSampleFile": false,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "XD basics",
     "name": "Importing existing designs from Illustrator",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
-    "hasVideo": true,
-    "videoUrl": "https://letsxd.com/videos/import-illustrator-to-xd",
-    "hasBlog": false,
-    "hasSampleFile": false,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "XD basics",
     "name": "Importing existing designs from Sketch",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
-    "hasVideo": true,
-    "videoUrl": "https://www.youtube.com/watch?v=HrU8TlCk1kU",
-    "hasBlog": false,
-    "hasSampleFile": false,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "Marketing Design",
     "name": "Social media sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "Marketing Design",
     "name": "Sample email design system",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "Marketing Design",
     "name": "XD's responsive resize makes sizng content for various sizes a breeze",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   },
   {
     "tags": "Marketing Design",
     "name": "Banner sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
-    "hasVideo": false,
-    "videoUrl": "",
-    "hasBlog": false,
-    "hasSampleFile": true,
-    "sampleFileUrl": "",
-    "showResourcePanel": true
+    "showResourcePanel": true,
+    "resources": [
+      {
+        "type":"video",
+        "url":"",
+        "headline":"Video here"
+      },
+      {
+        "type":"file",
+        "url":"https://www.behance.net/gallery/72045189/Responsive-Resize-Kit",
+        "headline":"Video here"
+      }
+    ]
   }
 ]
