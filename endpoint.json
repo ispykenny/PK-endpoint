@@ -100,12 +100,34 @@
   },
   {
     "tags": "XD basics",
-    "name": "Importing existing designs from Sketch, Photoshop or Illustrator",
+    "name": "Importing existing designs from Photoshop",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
-    "hasVideo": false,
-    "videoUrl": "",
+    "hasVideo": true,
+    "videoUrl": "https://letsxd.com/videos/import-photoshop-to-xd",
     "hasBlog": false,
-    "hasSampleFile": true,
+    "hasSampleFile": false,
+    "sampleFileUrl": "",
+    "showResourcePanel": true
+  },
+  {
+    "tags": "XD basics",
+    "name": "Importing existing designs from Illustrator",
+    "markup":"<p>2 shortcuts to get you statrted.</p>",
+    "hasVideo": true,
+    "videoUrl": "https://letsxd.com/videos/import-illustrator-to-xd",
+    "hasBlog": false,
+    "hasSampleFile": false,
+    "sampleFileUrl": "",
+    "showResourcePanel": true
+  },
+  {
+    "tags": "XD basics",
+    "name": "Importing existing designs from Sketch",
+    "markup":"<p>2 shortcuts to get you statrted.</p>",
+    "hasVideo": true,
+    "videoUrl": "https://www.youtube.com/watch?v=HrU8TlCk1kU",
+    "hasBlog": false,
+    "hasSampleFile": false,
     "sampleFileUrl": "",
     "showResourcePanel": true
   },
