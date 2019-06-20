@@ -144,6 +144,28 @@
   },
   {
     "tags": "Marketing Design",
+    "name": "Sample email design system",
+    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
+    "hasVideo": false,
+    "videoUrl": "",
+    "hasBlog": false,
+    "hasSampleFile": true,
+    "sampleFileUrl": "",
+    "showResourcePanel": true
+  },
+  {
+    "tags": "Marketing Design",
+    "name": "XD's responsive resize makes sizng content for various sizes a breeze",
+    "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
+    "hasVideo": false,
+    "videoUrl": "",
+    "hasBlog": false,
+    "hasSampleFile": true,
+    "sampleFileUrl": "",
+    "showResourcePanel": true
+  },
+  {
+    "tags": "Marketing Design",
     "name": "Banner sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "hasVideo": false,
