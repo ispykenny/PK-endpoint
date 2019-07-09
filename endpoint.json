@@ -1,6 +1,7 @@
 [
   {
     "tags": ["App Design", "Web Design"],
+    "theme": "blue",
     "name": "Will XD help me  adapt my design for various screen sizes?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
     "showResourcePanel": true,
@@ -19,6 +20,7 @@
   },
   {
     "tags": ["App Design", "Web Design"],
+    "theme": "blue",
     "name": "Does XD support creation of micro-interactions and animations?",
     "markup":"<p>Using a feature called responsive resize, XD helps take the chore out of resizing your design for various sizes. It takes an intelligent guess but you are always in control. If you are enamoured by this feature you can take it to the next level by defining manual contstraints that define how objects should behave during resize.</p>",
     "showResourcePanel": true,
@@ -37,6 +39,7 @@
   },
   {
     "tags": ["App Design", "Web Design"],
+    "theme": "blue",
     "name": "Can XD help in handing off my design to developers?",
     "markup":"<p>Using a feature called design specs, XD helps take the chore out of sharing your design with your development partners. They can extract what they need and its easy to go back and forth.</p>",
     "showResourcePanel": true,
@@ -55,6 +58,7 @@
   },
   {
     "tags": ["Web Design"],
+    "theme": "purple",
     "name": "Can I extract the design of a web page into XD to play with?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
@@ -73,6 +77,7 @@
   },
   {
     "tags": ["App Design"],
+    "theme": "orange",
     "name": "How do I view my designs on an actual device?",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
@@ -91,6 +96,7 @@
   },
   {
     "tags": ["XD basics"],
+    "theme": "dark-blue",
     "name": "If you had to know 2 keyboard shortcuts...",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
     "showResourcePanel": true,
@@ -109,6 +115,7 @@
   },
   {
     "tags": ["XD basics"],
+    "theme": "dark-blue",
     "name": "Importing existing designs from Photoshop",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
     "showResourcePanel": true,
@@ -127,6 +134,7 @@
   },
   {
     "tags": ["XD basics"],
+    "theme": "dark-blue",
     "name": "Importing existing designs from Illustrator",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
     "showResourcePanel": true,
@@ -145,6 +153,7 @@
   },
   {
     "tags": ["XD basics"],
+    "theme": "dark-blue",
     "name": "Importing existing designs from Sketch",
     "markup":"<p>2 shortcuts to get you statrted.</p>",
     "showResourcePanel": true,
@@ -163,6 +172,7 @@
   },
   {
     "tags": ["Marketing Design"],
+    "theme": "dark-purple",
     "name": "Social media sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
@@ -181,6 +191,7 @@
   },
   {
     "tags": ["Marketing Design"],
+    "theme": "dark-purple",
     "name": "Sample email design system",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
@@ -199,6 +210,7 @@
   },
   {
     "tags": ["Marketing Design"],
+    "theme": "dark-purple",
     "name": "XD's responsive resize makes sizng content for various sizes a breeze",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
@@ -217,6 +229,7 @@
   },
   {
     "tags": ["Marketing Design"],
+    "theme": "dark-purple",
     "name": "Banner sizes template",
     "markup":"<p>In this file, you will have access to a sample file that helps you understand how to create global 'styles</p>",
     "showResourcePanel": true,
